@@ -4,4 +4,4 @@ title: Git lesson
 ---
 
 Learned to use git commit to create new revision.
-Addedd file script.r
+Created file script.r
